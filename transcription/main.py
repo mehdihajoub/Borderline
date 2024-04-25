@@ -37,7 +37,8 @@ def create_transcript(transcript_method):
     except:
         return "Error: Could not transcribe"
     return result["text"], output_file
-    
+
+#print("yoooooo", create_transcript(sys.argv[1]))   
 transcript, output_file = create_transcript(sys.argv[1])
 with open(output_file, 'w+') as file:
     file.write(transcript)

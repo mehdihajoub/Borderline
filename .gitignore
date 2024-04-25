@@ -1,2 +1,11 @@
 data
 DL-env/
+__pycache__
+model.pth
+model.pth.tar.gz
+audio/
+graphs
+output/
+videos/
+generated_files.zip
+static/audio
