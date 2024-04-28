@@ -1,0 +1,1834 @@
+[
+    {
+        "Sentence": "Advance cautiously",
+        "Opposite": "Retreat recklessly"
+    },
+    {
+        "Sentence": "All is fair in love and war",
+        "Opposite": "Fairness matters always"
+    },
+    {
+        "Sentence": "As clear as day",
+        "Opposite": "As obscure as night"
+    },
+    {
+        "Sentence": "As old as the hills",
+        "Opposite": "Fresh and new"
+    },
+    {
+        "Sentence": "Back to basics",
+        "Opposite": "Advance to complexity"
+    },
+    {
+        "Sentence": "Beat around the bush",
+        "Opposite": "Get straight to the point"
+    },
+    {
+        "Sentence": "Birds of the same feather",
+        "Opposite": "Birds of diverse feathers"
+    },
+    {
+        "Sentence": "Born with a silver spoon",
+        "Opposite": "Born with no advantages"
+    },
+    {
+        "Sentence": "Bring home the bacon",
+        "Opposite": "Lose the bread"
+    },
+    {
+        "Sentence": "Burn the midnight oil",
+        "Opposite": "Take it easy"
+    },
+    {
+        "Sentence": "Calm before the storm",
+        "Opposite": "Turmoil before peace"
+    },
+    {
+        "Sentence": "Can't see the forest for the trees",
+        "Opposite": "Sees the big picture"
+    },
+    {
+        "Sentence": "Caught between a rock and a hard place",
+        "Opposite": "In an easy situation"
+    },
+    {
+        "Sentence": "Close but no cigar",
+        "Opposite": "Hit the mark"
+    },
+    {
+        "Sentence": "Come hell or high water",
+        "Opposite": "At the first sign of trouble, give up"
+    },
+    {
+        "Sentence": "Costs an arm and a leg",
+        "Opposite": "Is very affordable"
+    },
+    {
+        "Sentence": "Cross that bridge when you come to it",
+        "Opposite": "Plan far ahead"
+    },
+    {
+        "Sentence": "Cry over spilled milk",
+        "Opposite": "Move on quickly from setbacks"
+    },
+    {
+        "Sentence": "Curiosity killed the cat",
+        "Opposite": "Curiosity led to great discoveries"
+    },
+    {
+        "Sentence": "Cut to the chase",
+        "Opposite": "Drag things out"
+    },
+    {
+        "Sentence": "Don't count your chickens before they hatch",
+        "Opposite": "Assume success is certain"
+    },
+    {
+        "Sentence": "Don't put all your eggs in one basket",
+        "Opposite": "Concentrate all efforts on one thing"
+    },
+    {
+        "Sentence": "Down to earth",
+        "Opposite": "Head in the clouds"
+    },
+    {
+        "Sentence": "Draw the line",
+        "Opposite": "Make no boundaries"
+    },
+    {
+        "Sentence": "Drive someone up the wall",
+        "Opposite": "Calm someone down"
+    },
+    {
+        "Sentence": "Drop in the bucket",
+        "Opposite": "Significant contribution"
+    },
+    {
+        "Sentence": "Easier said than done",
+        "Opposite": "As easy as pie"
+    },
+    {
+        "Sentence": "Eat your words",
+        "Opposite": "Stand by your words"
+    },
+    {
+        "Sentence": "Every dog has its day",
+        "Opposite": "No one gets their moment"
+    },
+    {
+        "Sentence": "Fall on deaf ears",
+        "Opposite": "Meet with attentive response"
+    },
+    {
+        "Sentence": "Fight tooth and nail",
+        "Opposite": "Surrender easily"
+    },
+    {
+        "Sentence": "Find your feet",
+        "Opposite": "Lose your balance"
+    },
+    {
+        "Sentence": "Fit as a fiddle",
+        "Opposite": "In poor health"
+    },
+    {
+        "Sentence": "Flat as a pancake",
+        "Opposite": "Highly uneven"
+    },
+    {
+        "Sentence": "Full of beans",
+        "Opposite": "Lacking energy"
+    },
+    {
+        "Sentence": "Get a taste of your own medicine",
+        "Opposite": "Be treated exceptionally well"
+    },
+    {
+        "Sentence": "Give the cold shoulder",
+        "Opposite": "Offer a warm welcome"
+    },
+    {
+        "Sentence": "Go back to the drawing board",
+        "Opposite": "Nail it the first time"
+    },
+    {
+        "Sentence": "Go down in flames",
+        "Opposite": "Rise triumphantly"
+    },
+    {
+        "Sentence": "Go hand in hand",
+        "Opposite": "Clash severely"
+    },
+    {
+        "Sentence": "Go out on a limb",
+        "Opposite": "Play it safe"
+    },
+    {
+        "Sentence": "Goes without saying",
+        "Opposite": "Needs to be emphasized"
+    },
+    {
+        "Sentence": "Good things come in small packages",
+        "Opposite": "Better things come in larger sizes"
+    },
+    {
+        "Sentence": "Hang in there",
+        "Opposite": "Give up easily"
+    },
+    {
+        "Sentence": "Have your head in the clouds",
+        "Opposite": "Be grounded"
+    },
+    {
+        "Sentence": "Head over heels",
+        "Opposite": "Steady and stable"
+    },
+    {
+        "Sentence": "Hit the books",
+        "Opposite": "Ignore your studies"
+    },
+    {
+        "Sentence": "Hold your horses",
+        "Opposite": "Rush into action"
+    },
+    {
+        "Sentence": "In a nutshell",
+        "Opposite": "In extended detail"
+    },
+    {
+        "Sentence": "In the blink of an eye",
+        "Opposite": "Over a long period"
+    },
+    {
+        "Sentence": "In the same boat",
+        "Opposite": "In completely different situations"
+    },
+    {
+        "Sentence": "It takes two to tango",
+        "Opposite": "One can manage alone"
+    },
+    {
+        "Sentence": "It's a dog eat dog world",
+        "Opposite": "It's a cooperative world"
+    },
+    {
+        "Sentence": "It's raining cats and dogs",
+        "Opposite": "There's a mild drizzle"
+    },
+    {
+        "Sentence": "Keep your chin up",
+        "Opposite": "Let yourself be discouraged"
+    },
+    {
+        "Sentence": "Kick the bucket",
+        "Opposite": "Live and thrive"
+    },
+    {
+        "Sentence": "Last straw",
+        "Opposite": "Just the beginning"
+    },
+    {
+        "Sentence": "Leave no stone unturned",
+        "Opposite": "Give a cursory look"
+    },
+    {
+        "Sentence": "Let the cat out of the bag",
+        "Opposite": "Keep the secret"
+    },
+    {
+        "Sentence": "Like a bull in a china shop",
+        "Opposite": "Graceful and careful"
+    },
+    {
+        "Sentence": "Like two peas in a pod",
+        "Opposite": "Polar opposites"
+    },
+    {
+        "Sentence": "Make a mountain out of a molehill",
+        "Opposite": "Downplay the situation"
+    },
+    {
+        "Sentence": "Make no bones about it",
+        "Opposite": "Hide your true feelings"
+    },
+    {
+        "Sentence": "On cloud nine",
+        "Opposite": "Feeling down"
+    },
+    {
+        "Sentence": "Once in a blue moon",
+        "Opposite": "Very frequently"
+    },
+    {
+        "Sentence": "One man's trash is another man's treasure",
+        "Opposite": "One man\u2019s treasure is another\u2019s trash"
+    },
+    {
+        "Sentence": "Out of the frying pan and into the fire",
+        "Opposite": "From bad to good"
+    },
+    {
+        "Sentence": "Over the moon",
+        "Opposite": "Deeply disappointed"
+    },
+    {
+        "Sentence": "Pull yourself up by your bootstraps",
+        "Opposite": "Wait for help"
+    },
+    {
+        "Sentence": "Put the cart before the horse",
+        "Opposite": "Proper order"
+    },
+    {
+        "Sentence": "Rain on someone's parade",
+        "Opposite": "Enhance someone\u2019s joy"
+    },
+    {
+        "Sentence": "Read between the lines",
+        "Opposite": "Take things at face value"
+    },
+    {
+        "Sentence": "Rock the boat",
+        "Opposite": "Keep the peace"
+    },
+    {
+        "Sentence": "Run like the wind",
+        "Opposite": "Crawl at a snail's pace"
+    },
+    {
+        "Sentence": "Saved by the bell",
+        "Opposite": "Caught at the last moment"
+    },
+    {
+        "Sentence": "See eye to eye",
+        "Opposite": "Have differing views"
+    },
+    {
+        "Sentence": "Sell like hot cakes",
+        "Opposite": "Move slowly off the shelves"
+    },
+    {
+        "Sentence": "Set the record straight",
+        "Opposite": "Continue the confusion"
+    },
+    {
+        "Sentence": "Shoot for the stars",
+        "Opposite": "Keep your ambitions low"
+    },
+    {
+        "Sentence": "Sit on the fence",
+        "Opposite": "Take a clear position"
+    },
+    {
+        "Sentence": "Speak your mind",
+        "Opposite": "Hold your tongue"
+    },
+    {
+        "Sentence": "Spill the beans",
+        "Opposite": "Keep the secret"
+    },
+    {
+        "Sentence": "Take it with a grain of salt",
+        "Opposite": "Accept it as the absolute truth"
+    },
+    {
+        "Sentence": "Take the bull by the horns",
+        "Opposite": "Avoid direct confrontation"
+    },
+    {
+        "Sentence": "The bigger they are, the harder they fall",
+        "Opposite": "The bigger, the more stable"
+    },
+    {
+        "Sentence": "The devil is in the details",
+        "Opposite": "The overview is what matters"
+    },
+    {
+        "Sentence": "The early bird gets the worm",
+        "Opposite": "Procrastination pays off"
+    },
+    {
+        "Sentence": "The elephant in the room",
+        "Opposite": "A completely overlooked issue"
+    },
+    {
+        "Sentence": "The more things change, the more they stay the same",
+        "Opposite": "Change is total"
+    },
+    {
+        "Sentence": "Throw in the towel",
+        "Opposite": "Keep fighting"
+    },
+    {
+        "Sentence": "Tip of the iceberg",
+        "Opposite": "The whole story"
+    },
+    {
+        "Sentence": "To add insult to injury",
+        "Opposite": "To offer a consolation"
+    },
+    {
+        "Sentence": "Under the weather",
+        "Opposite": "Feeling great"
+    },
+    {
+        "Sentence": "Up in arms",
+        "Opposite": "Completely calm"
+    },
+    {
+        "Sentence": "Variety is the spice of life",
+        "Opposite": "Monotony provides comfort"
+    },
+    {
+        "Sentence": "Walk on eggshells",
+        "Opposite": "Tread confidently"
+    },
+    {
+        "Sentence": "Waste not, want not",
+        "Opposite": "Indulge and face shortages"
+    },
+    {
+        "Sentence": "Wear your heart on your sleeve",
+        "Opposite": "Hide your emotions"
+    },
+    {
+        "Sentence": "When pigs fly",
+        "Opposite": "It is likely to happen"
+    },
+    {
+        "Sentence": "You can't teach an old dog new tricks",
+        "Opposite": "It's never too late to learn"
+    },
+    {
+        "Sentence": "Open book",
+        "Opposite": "Hidden agenda"
+    },
+    {
+        "Sentence": "Start with a bang",
+        "Opposite": "End with a whimper"
+    },
+    {
+        "Sentence": "Grow silently",
+        "Opposite": "Decline loudly"
+    },
+    {
+        "Sentence": "Accept graciously",
+        "Opposite": "Reject rudely"
+    },
+    {
+        "Sentence": "Rise early",
+        "Opposite": "Sleep in"
+    },
+    {
+        "Sentence": "Lead from the front",
+        "Opposite": "Follow from behind"
+    },
+    {
+        "Sentence": "Save meticulously",
+        "Opposite": "Spend recklessly"
+    },
+    {
+        "Sentence": "Laugh heartily",
+        "Opposite": "Cry quietly"
+    },
+    {
+        "Sentence": "Plan meticulously",
+        "Opposite": "Act spontaneously"
+    },
+    {
+        "Sentence": "Build bridges",
+        "Opposite": "Burn bridges"
+    },
+    {
+        "Sentence": "Color inside the lines",
+        "Opposite": "Think outside the box"
+    },
+    {
+        "Sentence": "Keep the peace",
+        "Opposite": "Stir the pot"
+    },
+    {
+        "Sentence": "Act young",
+        "Opposite": "Feel old"
+    },
+    {
+        "Sentence": "Seek truth",
+        "Opposite": "Spread lies"
+    },
+    {
+        "Sentence": "Open doors",
+        "Opposite": "Close gates"
+    },
+    {
+        "Sentence": "Add fuel to the fire",
+        "Opposite": "Douse the flames"
+    },
+    {
+        "Sentence": "Catch a break",
+        "Opposite": "Hit a snag"
+    },
+    {
+        "Sentence": "Make a fortune",
+        "Opposite": "Lose a fortune"
+    },
+    {
+        "Sentence": "Stand firm",
+        "Opposite": "Back down"
+    },
+    {
+        "Sentence": "Follow the rules",
+        "Opposite": "Break the rules"
+    },
+    {
+        "Sentence": "Collect memories",
+        "Opposite": "Forget moments"
+    },
+    {
+        "Sentence": "Think critically",
+        "Opposite": "Accept blindly"
+    },
+    {
+        "Sentence": "Challenge the norm",
+        "Opposite": "Conform to standards"
+    },
+    {
+        "Sentence": "Hold on tightly",
+        "Opposite": "Let go easily"
+    },
+    {
+        "Sentence": "Invest wisely",
+        "Opposite": "Waste foolishly"
+    },
+    {
+        "Sentence": "Embrace change",
+        "Opposite": "Resist change"
+    },
+    {
+        "Sentence": "Read thoroughly",
+        "Opposite": "Skim superficially"
+    },
+    {
+        "Sentence": "Go unnoticed",
+        "Opposite": "Attract attention"
+    },
+    {
+        "Sentence": "Win hearts",
+        "Opposite": "Alienate people"
+    },
+    {
+        "Sentence": "Join forces",
+        "Opposite": "Divide groups"
+    },
+    {
+        "Sentence": "Shine brightly",
+        "Opposite": "Fade quietly"
+    },
+    {
+        "Sentence": "Simplify processes",
+        "Opposite": "Complicate matters"
+    },
+    {
+        "Sentence": "Share generously",
+        "Opposite": "Hoarde selfishly"
+    },
+    {
+        "Sentence": "Venture out",
+        "Opposite": "Stay in"
+    },
+    {
+        "Sentence": "Acknowledge efforts",
+        "Opposite": "Ignore contributions"
+    },
+    {
+        "Sentence": "Enjoy the journey",
+        "Opposite": "Rush to the destination"
+    },
+    {
+        "Sentence": "Nurture relationships",
+        "Opposite": "Neglect connections"
+    },
+    {
+        "Sentence": "Count blessings",
+        "Opposite": "Highlight misfortunes"
+    },
+    {
+        "Sentence": "Sing praises",
+        "Opposite": "Whisper criticisms"
+    },
+    {
+        "Sentence": "Explore new ideas",
+        "Opposite": "Recycle old thoughts"
+    },
+    {
+        "Sentence": "Reveal secrets",
+        "Opposite": "Keep mysteries"
+    },
+    {
+        "Sentence": "Walk lightly",
+        "Opposite": "Tread heavily"
+    },
+    {
+        "Sentence": "Blend in",
+        "Opposite": "Stand out"
+    },
+    {
+        "Sentence": "Work miracles",
+        "Opposite": "Create disasters"
+    },
+    {
+        "Sentence": "Offer help",
+        "Opposite": "Seek favors"
+    },
+    {
+        "Sentence": "Value substance",
+        "Opposite": "Chase shadows"
+    },
+    {
+        "Sentence": "Draw conclusions",
+        "Opposite": "Raise questions"
+    },
+    {
+        "Sentence": "Speak boldly",
+        "Opposite": "Murmur softly"
+    },
+    {
+        "Sentence": "Defend rights",
+        "Opposite": "Suppress freedoms"
+    },
+    {
+        "Sentence": "Welcome newcomers",
+        "Opposite": "Shun outsiders"
+    },
+    {
+        "Sentence": "Promote harmony",
+        "Opposite": "Incite conflict"
+    },
+    {
+        "Sentence": "Act honorably",
+        "Opposite": "Behave disgracefully"
+    },
+    {
+        "Sentence": "Raise hopes",
+        "Opposite": "Dash dreams"
+    },
+    {
+        "Sentence": "Face fears",
+        "Opposite": "Flee dangers"
+    },
+    {
+        "Sentence": "Extend olive branches",
+        "Opposite": "Wage wars"
+    },
+    {
+        "Sentence": "Value time",
+        "Opposite": "Waste time"
+    },
+    {
+        "Sentence": "Echo sentiments",
+        "Opposite": "Contradict opinions"
+    },
+    {
+        "Sentence": "Chart new paths",
+        "Opposite": "Follow old tracks"
+    },
+    {
+        "Sentence": "Strengthen bonds",
+        "Opposite": "Sever ties"
+    },
+    {
+        "Sentence": "Fight for justice",
+        "Opposite": "Tolerate injustice"
+    },
+    {
+        "Sentence": "Spread joy",
+        "Opposite": "Instill sorrow"
+    },
+    {
+        "Sentence": "Create masterpieces",
+        "Opposite": "Produce mediocrity"
+    },
+    {
+        "Sentence": "Live passionately",
+        "Opposite": "Exist listlessly"
+    },
+    {
+        "Sentence": "Climb mountains",
+        "Opposite": "Fall into valleys"
+    },
+    {
+        "Sentence": "Seek solutions",
+        "Opposite": "Dwell on problems"
+    },
+    {
+        "Sentence": "Express gratitude",
+        "Opposite": "Show ingratitude"
+    },
+    {
+        "Sentence": "Heal wounds",
+        "Opposite": "Inflict pain"
+    },
+    {
+        "Sentence": "Act wisely",
+        "Opposite": "Reckon rashly"
+    },
+    {
+        "Sentence": "Aim high",
+        "Opposite": "Settle low"
+    },
+    {
+        "Sentence": "Restore faith",
+        "Opposite": "Shatter beliefs"
+    },
+    {
+        "Sentence": "Gather strength",
+        "Opposite": "Succumb to weakness"
+    },
+    {
+        "Sentence": "Keep promises",
+        "Opposite": "Break commitments"
+    },
+    {
+        "Sentence": "Admire beauty",
+        "Opposite": "Disregard charm"
+    },
+    {
+        "Sentence": "Expand horizons",
+        "Opposite": "Limit perspectives"
+    },
+    {
+        "Sentence": "Learn constantly",
+        "Opposite": "Ignore lessons"
+    },
+    {
+        "Sentence": "Celebrate success",
+        "Opposite": "Dismiss achievements"
+    },
+    {
+        "Sentence": "Pursue dreams",
+        "Opposite": "Abandon aspirations"
+    },
+    {
+        "Sentence": "Speak truth",
+        "Opposite": "Hide facts"
+    },
+    {
+        "Sentence": "Enable progress",
+        "Opposite": "Hinder development"
+    },
+    {
+        "Sentence": "Seek clarity",
+        "Opposite": "Embrace confusion"
+    },
+    {
+        "Sentence": "Cultivate talent",
+        "Opposite": "Stifle growth"
+    },
+    {
+        "Sentence": "Build futures",
+        "Opposite": "Destroy hopes"
+    },
+    {
+        "Sentence": "Treat fairly",
+        "Opposite": "Act unjustly"
+    },
+    {
+        "Sentence": "Relish life",
+        "Opposite": "Regret living"
+    },
+    {
+        "Sentence": "Brighten rooms",
+        "Opposite": "Dim lights"
+    },
+    {
+        "Sentence": "Calm storms",
+        "Opposite": "Provoke turmoil"
+    },
+    {
+        "Sentence": "Walk paths",
+        "Opposite": "Stray off course"
+    },
+    {
+        "Sentence": "Demand justice",
+        "Opposite": "Accept wrongdoing"
+    },
+    {
+        "Sentence": "Preserve nature",
+        "Opposite": "Exploit resources"
+    },
+    {
+        "Sentence": "Stimulate minds",
+        "Opposite": "Dull senses"
+    },
+    {
+        "Sentence": "Strengthen resolve",
+        "Opposite": "Weaken will"
+    },
+    {
+        "Sentence": "Bridge gaps",
+        "Opposite": "Create barriers"
+    },
+    {
+        "Sentence": "Guide youth",
+        "Opposite": "Mislead the young"
+    },
+    {
+        "Sentence": "Uncover truths",
+        "Opposite": "Bury facts"
+    },
+    {
+        "Sentence": "Cherish moments",
+        "Opposite": "Overlook opportunities"
+    },
+    {
+        "Sentence": "Defend the weak",
+        "Opposite": "Oppress the vulnerable"
+    },
+    {
+        "Sentence": "Inspire action",
+        "Opposite": "Discourage participation"
+    },
+    {
+        "Sentence": "Build up",
+        "Opposite": "Tear down"
+    },
+    {
+        "Sentence": "Cats purr",
+        "Opposite": "Dogs growl"
+    },
+    {
+        "Sentence": "Students study",
+        "Opposite": "Procrastinators delay"
+    },
+    {
+        "Sentence": "Leaders inspire",
+        "Opposite": "Tyrants oppress"
+    },
+    {
+        "Sentence": "Trees bloom",
+        "Opposite": "Leaves fall"
+    },
+    {
+        "Sentence": "Artists create",
+        "Opposite": "Critics destroy"
+    },
+    {
+        "Sentence": "Teachers educate",
+        "Opposite": "Ignorance spreads"
+    },
+    {
+        "Sentence": "Singers perform",
+        "Opposite": "Audiences watch"
+    },
+    {
+        "Sentence": "Writers write",
+        "Opposite": "Editors cut"
+    },
+    {
+        "Sentence": "Runners sprint",
+        "Opposite": "Spectators rest"
+    },
+    {
+        "Sentence": "Children play",
+        "Opposite": "Adults work"
+    },
+    {
+        "Sentence": "Cars accelerate",
+        "Opposite": "Brakes halt"
+    },
+    {
+        "Sentence": "Innovators invent",
+        "Opposite": "Copycats replicate"
+    },
+    {
+        "Sentence": "Chefs cook",
+        "Opposite": "Guests eat"
+    },
+    {
+        "Sentence": "Gardens flourish",
+        "Opposite": "Deserts wither"
+    },
+    {
+        "Sentence": "Athletes compete",
+        "Opposite": "Referees monitor"
+    },
+    {
+        "Sentence": "Fish swim",
+        "Opposite": "Birds fly"
+    },
+    {
+        "Sentence": "Traders buy",
+        "Opposite": "Sellers offload"
+    },
+    {
+        "Sentence": "Sun rises",
+        "Opposite": "Moon sets"
+    },
+    {
+        "Sentence": "Waves crash",
+        "Opposite": "Tides recede"
+    },
+    {
+        "Sentence": "Stars twinkle",
+        "Opposite": "Clouds obscure"
+    },
+    {
+        "Sentence": "Dancers move",
+        "Opposite": "Statues stand"
+    },
+    {
+        "Sentence": "Judges decide",
+        "Opposite": "Criminals confuse"
+    },
+    {
+        "Sentence": "Doctors heal",
+        "Opposite": "Diseases harm"
+    },
+    {
+        "Sentence": "Mountains endure",
+        "Opposite": "Valleys erode"
+    },
+    {
+        "Sentence": "Clouds gather",
+        "Opposite": "Skies clear"
+    },
+    {
+        "Sentence": "Friends support",
+        "Opposite": "Enemies undermine"
+    },
+    {
+        "Sentence": "Fire burns",
+        "Opposite": "Water quenches"
+    },
+    {
+        "Sentence": "Planets orbit",
+        "Opposite": "Meteors stray"
+    },
+    {
+        "Sentence": "Volunteers help",
+        "Opposite": "Victims suffer"
+    },
+    {
+        "Sentence": "Pilots navigate",
+        "Opposite": "Passengers travel"
+    },
+    {
+        "Sentence": "Poets rhyme",
+        "Opposite": "Monotones drone"
+    },
+    {
+        "Sentence": "Bakers bake",
+        "Opposite": "Eaters enjoy"
+    },
+    {
+        "Sentence": "Shoppers bargain",
+        "Opposite": "Stores sell"
+    },
+    {
+        "Sentence": "Photographers capture",
+        "Opposite": "Moments pass"
+    },
+    {
+        "Sentence": "Librarians organize",
+        "Opposite": "Chaos ensues"
+    },
+    {
+        "Sentence": "Mechanics repair",
+        "Opposite": "Breakdowns occur"
+    },
+    {
+        "Sentence": "Painters depict",
+        "Opposite": "Realities fade"
+    },
+    {
+        "Sentence": "Drummers beat",
+        "Opposite": "Conductors lead"
+    },
+    {
+        "Sentence": "Scientists research",
+        "Opposite": "Mysteries deepen"
+    },
+    {
+        "Sentence": "Joggers pace",
+        "Opposite": "Couch potatoes lounge"
+    },
+    {
+        "Sentence": "Reporters inform",
+        "Opposite": "Secrets hide"
+    },
+    {
+        "Sentence": "Swimmers dive",
+        "Opposite": "Floaters drift"
+    },
+    {
+        "Sentence": "Tourists explore",
+        "Opposite": "Locals stay"
+    },
+    {
+        "Sentence": "Readers absorb",
+        "Opposite": "Books close"
+    },
+    {
+        "Sentence": "Directors direct",
+        "Opposite": "Actors interpret"
+    },
+    {
+        "Sentence": "Scholars theorize",
+        "Opposite": "Practitioners apply"
+    },
+    {
+        "Sentence": "Drivers steer",
+        "Opposite": "Obstacles emerge"
+    },
+    {
+        "Sentence": "Instructors demonstrate",
+        "Opposite": "Learners practice"
+    },
+    {
+        "Sentence": "Generals command",
+        "Opposite": "Soldiers follow"
+    },
+    {
+        "Sentence": "Investors speculate",
+        "Opposite": "Markets fluctuate"
+    },
+    {
+        "Sentence": "Optimists hope",
+        "Opposite": "Pessimists doubt"
+    },
+    {
+        "Sentence": "Actresses rehearse",
+        "Opposite": "Stages empty"
+    },
+    {
+        "Sentence": "Negotiators negotiate",
+        "Opposite": "Conflicts persist"
+    },
+    {
+        "Sentence": "Programmers code",
+        "Opposite": "Systems crash"
+    },
+    {
+        "Sentence": "Barbers trim",
+        "Opposite": "Hair grows"
+    },
+    {
+        "Sentence": "Bikers pedal",
+        "Opposite": "Hills challenge"
+    },
+    {
+        "Sentence": "Climbers ascend",
+        "Opposite": "Summits await"
+    },
+    {
+        "Sentence": "Surfers ride",
+        "Opposite": "Waves subside"
+    },
+    {
+        "Sentence": "Masons build",
+        "Opposite": "Ruins crumble"
+    },
+    {
+        "Sentence": "Electricians wire",
+        "Opposite": "Outages disrupt"
+    },
+    {
+        "Sentence": "Composers compose",
+        "Opposite": "Silences linger"
+    },
+    {
+        "Sentence": "Politicians promise",
+        "Opposite": "Voters question"
+    },
+    {
+        "Sentence": "Tailors fit",
+        "Opposite": "Clothes wear"
+    },
+    {
+        "Sentence": "Farmers sow",
+        "Opposite": "Crops ripen"
+    },
+    {
+        "Sentence": "Bankers invest",
+        "Opposite": "Economies wobble"
+    },
+    {
+        "Sentence": "Historians document",
+        "Opposite": "Events fade"
+    },
+    {
+        "Sentence": "Tailors sew",
+        "Opposite": "Seams tear"
+    },
+    {
+        "Sentence": "Architects design",
+        "Opposite": "Buildings age"
+    },
+    {
+        "Sentence": "Entrepreneurs risk",
+        "Opposite": "Enterprises establish"
+    },
+    {
+        "Sentence": "Hunters track",
+        "Opposite": "Prey eludes"
+    },
+    {
+        "Sentence": "Miners dig",
+        "Opposite": "Resources deplete"
+    },
+    {
+        "Sentence": "Activists protest",
+        "Opposite": "Governments legislate"
+    },
+    {
+        "Sentence": "Consultants advise",
+        "Opposite": "Clients deliberate"
+    },
+    {
+        "Sentence": "Acrobats flip",
+        "Opposite": "Crowds gasp"
+    },
+    {
+        "Sentence": "Golfers swing",
+        "Opposite": "Balls land"
+    },
+    {
+        "Sentence": "Counselors counsel",
+        "Opposite": "Problems persist"
+    },
+    {
+        "Sentence": "Astronomers gaze",
+        "Opposite": "Stars distant"
+    },
+    {
+        "Sentence": "Bees pollinate",
+        "Opposite": "Flowers bloom"
+    },
+    {
+        "Sentence": "Snow falls",
+        "Opposite": "Sun melts"
+    },
+    {
+        "Sentence": "Dreamers imagine",
+        "Opposite": "Realists calculate"
+    },
+    {
+        "Sentence": "Leaders rule",
+        "Opposite": "Followers obey"
+    },
+    {
+        "Sentence": "Audiences applaud",
+        "Opposite": "Performers bow"
+    },
+    {
+        "Sentence": "Anglers fish",
+        "Opposite": "Fish escape"
+    },
+    {
+        "Sentence": "Speakers speak",
+        "Opposite": "Listeners absorb"
+    },
+    {
+        "Sentence": "Bargainers negotiate",
+        "Opposite": "Deals settle"
+    },
+    {
+        "Sentence": "Navigators chart",
+        "Opposite": "Ships sail"
+    },
+    {
+        "Sentence": "Skiers descend",
+        "Opposite": "Mountains challenge"
+    },
+    {
+        "Sentence": "Parents guide",
+        "Opposite": "Children learn"
+    },
+    {
+        "Sentence": "Adventurers venture",
+        "Opposite": "Homesteaders remain"
+    },
+    {
+        "Sentence": "Detectives investigate",
+        "Opposite": "Clues reveal"
+    },
+    {
+        "Sentence": "Browsers search",
+        "Opposite": "Information reveals"
+    },
+    {
+        "Sentence": "Players win",
+        "Opposite": "Losers concede"
+    },
+    {
+        "Sentence": "Builders construct",
+        "Opposite": "Structures stand"
+    },
+    {
+        "Sentence": "Explorers discover",
+        "Opposite": "Territories expand"
+    },
+    {
+        "Sentence": "I am a leader",
+        "Opposite": "I am a spectator"
+    },
+    {
+        "Sentence": "I love adventure",
+        "Opposite": "I prefer safety"
+    },
+    {
+        "Sentence": "I seek knowledge",
+        "Opposite": "I embrace ignorance"
+    },
+    {
+        "Sentence": "I play sports",
+        "Opposite": "I avoid physical activities"
+    },
+    {
+        "Sentence": "I enjoy solitude",
+        "Opposite": "I thrive in crowds"
+    },
+    {
+        "Sentence": "I save money",
+        "Opposite": "I spend freely"
+    },
+    {
+        "Sentence": "I value truth",
+        "Opposite": "I tolerate lies"
+    },
+    {
+        "Sentence": "I read books",
+        "Opposite": "I watch TV"
+    },
+    {
+        "Sentence": "I admire art",
+        "Opposite": "I overlook beauty"
+    },
+    {
+        "Sentence": "I prefer quiet",
+        "Opposite": "I seek noise"
+    },
+    {
+        "Sentence": "I am early",
+        "Opposite": "I am late"
+    },
+    {
+        "Sentence": "I practice patience",
+        "Opposite": "I rush decisions"
+    },
+    {
+        "Sentence": "I respect others",
+        "Opposite": "I disregard others"
+    },
+    {
+        "Sentence": "I cherish moments",
+        "Opposite": "I waste time"
+    },
+    {
+        "Sentence": "I strive for peace",
+        "Opposite": "I provoke conflict"
+    },
+    {
+        "Sentence": "I follow rules",
+        "Opposite": "I break laws"
+    },
+    {
+        "Sentence": "I listen carefully",
+        "Opposite": "I ignore advice"
+    },
+    {
+        "Sentence": "I maintain health",
+        "Opposite": "I neglect wellbeing"
+    },
+    {
+        "Sentence": "I study hard",
+        "Opposite": "I take it easy"
+    },
+    {
+        "Sentence": "I laugh often",
+        "Opposite": "I frown frequently"
+    },
+    {
+        "Sentence": "I forgive easily",
+        "Opposite": "I hold grudges"
+    },
+    {
+        "Sentence": "I plan ahead",
+        "Opposite": "I live spontaneously"
+    },
+    {
+        "Sentence": "I speak kindly",
+        "Opposite": "I criticize harshly"
+    },
+    {
+        "Sentence": "I dress formally",
+        "Opposite": "I dress casually"
+    },
+    {
+        "Sentence": "I handle stress",
+        "Opposite": "I avoid pressure"
+    },
+    {
+        "Sentence": "I solve problems",
+        "Opposite": "I create complications"
+    },
+    {
+        "Sentence": "I seek justice",
+        "Opposite": "I ignore injustice"
+    },
+    {
+        "Sentence": "I trust people",
+        "Opposite": "I doubt motives"
+    },
+    {
+        "Sentence": "I work diligently",
+        "Opposite": "I slack off"
+    },
+    {
+        "Sentence": "I explore new ideas",
+        "Opposite": "I stick to traditions"
+    },
+    {
+        "Sentence": "I am optimistic",
+        "Opposite": "I am pessimistic"
+    },
+    {
+        "Sentence": "I promote health",
+        "Opposite": "I indulge habits"
+    },
+    {
+        "Sentence": "I build relationships",
+        "Opposite": "I isolate myself"
+    },
+    {
+        "Sentence": "I appreciate nature",
+        "Opposite": "I ignore the environment"
+    },
+    {
+        "Sentence": "I pursue goals",
+        "Opposite": "I lack ambition"
+    },
+    {
+        "Sentence": "I respect boundaries",
+        "Opposite": "I overstep limits"
+    },
+    {
+        "Sentence": "I am motivated",
+        "Opposite": "I am apathetic"
+    },
+    {
+        "Sentence": "I exercise regularly",
+        "Opposite": "I remain inactive"
+    },
+    {
+        "Sentence": "I embrace change",
+        "Opposite": "I resist change"
+    },
+    {
+        "Sentence": "I practice humility",
+        "Opposite": "I flaunt achievements"
+    },
+    {
+        "Sentence": "I express gratitude",
+        "Opposite": "I take for granted"
+    },
+    {
+        "Sentence": "I enjoy cooking",
+        "Opposite": "I prefer ordering"
+    },
+    {
+        "Sentence": "I maintain order",
+        "Opposite": "I tolerate chaos"
+    },
+    {
+        "Sentence": "I prioritize safety",
+        "Opposite": "I take risks"
+    },
+    {
+        "Sentence": "I focus on details",
+        "Opposite": "I overlook specifics"
+    },
+    {
+        "Sentence": "I am creative",
+        "Opposite": "I am conventional"
+    },
+    {
+        "Sentence": "I engage with others",
+        "Opposite": "I withdraw socially"
+    },
+    {
+        "Sentence": "I respect privacy",
+        "Opposite": "I invade spaces"
+    },
+    {
+        "Sentence": "I am patient",
+        "Opposite": "I am hasty"
+    },
+    {
+        "Sentence": "I recycle",
+        "Opposite": "I waste resources"
+    },
+    {
+        "Sentence": "I celebrate success",
+        "Opposite": "I ignore accomplishments"
+    },
+    {
+        "Sentence": "I am independent",
+        "Opposite": "I depend on others"
+    },
+    {
+        "Sentence": "I stay informed",
+        "Opposite": "I remain oblivious"
+    },
+    {
+        "Sentence": "I am punctual",
+        "Opposite": "I am tardy"
+    },
+    {
+        "Sentence": "I choose words carefully",
+        "Opposite": "I speak without thinking"
+    },
+    {
+        "Sentence": "I maintain friendships",
+        "Opposite": "I drift apart"
+    },
+    {
+        "Sentence": "I invest wisely",
+        "Opposite": "I gamble recklessly"
+    },
+    {
+        "Sentence": "I am responsible",
+        "Opposite": "I am careless"
+    },
+    {
+        "Sentence": "I pursue education",
+        "Opposite": "I disregard learning"
+    },
+    {
+        "Sentence": "I manage time well",
+        "Opposite": "I waste time"
+    },
+    {
+        "Sentence": "I enjoy challenges",
+        "Opposite": "I avoid difficulties"
+    },
+    {
+        "Sentence": "I follow passions",
+        "Opposite": "I suppress desires"
+    },
+    {
+        "Sentence": "I am calm",
+        "Opposite": "I am anxious"
+    },
+    {
+        "Sentence": "I contribute positively",
+        "Opposite": "I detract from goals"
+    },
+    {
+        "Sentence": "I keep promises",
+        "Opposite": "I forget commitments"
+    },
+    {
+        "Sentence": "I am hopeful",
+        "Opposite": "I am cynical"
+    },
+    {
+        "Sentence": "I adapt easily",
+        "Opposite": "I struggle with change"
+    },
+    {
+        "Sentence": "I respect authority",
+        "Opposite": "I challenge authority"
+    },
+    {
+        "Sentence": "I value history",
+        "Opposite": "I ignore the past"
+    },
+    {
+        "Sentence": "I am gentle",
+        "Opposite": "I am harsh"
+    },
+    {
+        "Sentence": "I am methodical",
+        "Opposite": "I am haphazard"
+    },
+    {
+        "Sentence": "I enjoy simplicity",
+        "Opposite": "I crave complexity"
+    },
+    {
+        "Sentence": "I am confident",
+        "Opposite": "I am doubtful"
+    },
+    {
+        "Sentence": "I smile often",
+        "Opposite": "I seldom smile"
+    },
+    {
+        "Sentence": "I am supportive",
+        "Opposite": "I am critical"
+    },
+    {
+        "Sentence": "I am thankful",
+        "Opposite": "I am unappreciative"
+    },
+    {
+        "Sentence": "I seek balance",
+        "Opposite": "I live in extremes"
+    },
+    {
+        "Sentence": "I am open-minded",
+        "Opposite": "I am judgmental"
+    },
+    {
+        "Sentence": "I share freely",
+        "Opposite": "I hoard selfishly"
+    },
+    {
+        "Sentence": "I am content",
+        "Opposite": "I am dissatisfied"
+    },
+    {
+        "Sentence": "I learn constantly",
+        "Opposite": "I reject new information"
+    },
+    {
+        "Sentence": "I am reliable",
+        "Opposite": "I am unpredictable"
+    },
+    {
+        "Sentence": "I nurture growth",
+        "Opposite": "I stunt development"
+    },
+    {
+        "Sentence": "I am enthusiastic",
+        "Opposite": "I am apathetic"
+    },
+    {
+        "Sentence": "I communicate effectively",
+        "Opposite": "I miscommunicate often"
+    },
+    {
+        "Sentence": "I respect opinions",
+        "Opposite": "I dismiss views"
+    },
+    {
+        "Sentence": "I am flexible",
+        "Opposite": "I am rigid"
+    },
+    {
+        "Sentence": "I eat healthily",
+        "Opposite": "I indulge in junk food"
+    },
+    {
+        "Sentence": "I seek harmony",
+        "Opposite": "I tolerate discord"
+    },
+    {
+        "Sentence": "I am disciplined",
+        "Opposite": "I lack self-control"
+    },
+    {
+        "Sentence": "I am generous",
+        "Opposite": "I am stingy"
+    },
+    {
+        "Sentence": "I am curious",
+        "Opposite": "I am indifferent"
+    },
+    {
+        "Sentence": "I seek clarity",
+        "Opposite": "I accept confusion"
+    },
+    {
+        "Sentence": "I value accuracy",
+        "Opposite": "I tolerate inaccuracies"
+    },
+    {
+        "Sentence": "I am active",
+        "Opposite": "I am sedentary"
+    },
+    {
+        "Sentence": "I practice fairness",
+        "Opposite": "I exhibit bias"
+    },
+    {
+        "Sentence": "I am ambitious",
+        "Opposite": "I lack drive"
+    },
+    {
+        "Sentence": "I cultivate peace",
+        "Opposite": "I incite turmoil"
+    },
+    {
+        "Sentence": "I savor moments",
+        "Opposite": "I rush through life"
+    },
+    {
+        "Sentence": "I embrace technology",
+        "Opposite": "I shun modern tools"
+    },
+    {
+        "Sentence": "I promote literacy",
+        "Opposite": "I disregard education"
+    },
+    {
+        "Sentence": "I enjoy nature",
+        "Opposite": "I stay indoors"
+    },
+    {
+        "Sentence": "I innovate",
+        "Opposite": "I follow"
+    },
+    {
+        "Sentence": "I nurture talent",
+        "Opposite": "I ignore potential"
+    },
+    {
+        "Sentence": "I am focused",
+        "Opposite": "I am distracted"
+    },
+    {
+        "Sentence": "I engage in arts",
+        "Opposite": "I neglect creativity"
+    },
+    {
+        "Sentence": "I conserve resources",
+        "Opposite": "I waste resources"
+    },
+    {
+        "Sentence": "I am organized",
+        "Opposite": "I am disorganized"
+    },
+    {
+        "Sentence": "I practice yoga",
+        "Opposite": "I avoid exercise"
+    },
+    {
+        "Sentence": "I seek truth",
+        "Opposite": "I ignore facts"
+    },
+    {
+        "Sentence": "I am mindful",
+        "Opposite": "I am careless"
+    },
+    {
+        "Sentence": "I explore",
+        "Opposite": "I stay put"
+    },
+    {
+        "Sentence": "I am a team player",
+        "Opposite": "I work alone"
+    },
+    {
+        "Sentence": "I prioritize health",
+        "Opposite": "I neglect well-being"
+    },
+    {
+        "Sentence": "I am resilient",
+        "Opposite": "I give up easily"
+    },
+    {
+        "Sentence": "I meditate",
+        "Opposite": "I stress out"
+    },
+    {
+        "Sentence": "I am persistent",
+        "Opposite": "I give up quickly"
+    },
+    {
+        "Sentence": "I seek adventure",
+        "Opposite": "I cling to routine"
+    },
+    {
+        "Sentence": "I encourage others",
+        "Opposite": "I discourage others"
+    },
+    {
+        "Sentence": "I enjoy learning",
+        "Opposite": "I disdain education"
+    },
+    {
+        "Sentence": "I am thoughtful",
+        "Opposite": "I am thoughtless"
+    },
+    {
+        "Sentence": "I am proactive",
+        "Opposite": "I am reactive"
+    },
+    {
+        "Sentence": "I am adventurous",
+        "Opposite": "I am cautious"
+    },
+    {
+        "Sentence": "I respect the environment",
+        "Opposite": "I ignore ecological issues"
+    },
+    {
+        "Sentence": "I am a reader",
+        "Opposite": "I am a viewer"
+    },
+    {
+        "Sentence": "I am an optimist",
+        "Opposite": "I am a pessimist"
+    },
+    {
+        "Sentence": "I am a creator",
+        "Opposite": " I am a consumer "
+    },
+    {
+        "Sentence": "I am a planner",
+        "Opposite": " I am spontaneous "
+    },
+    {
+        "Sentence": "I am a dreamer",
+        "Opposite": " I am a realist "
+    },
+    {
+        "Sentence": "I am an early riser",
+        "Opposite": " I am a night owl "
+    },
+    {
+        "Sentence": "I am open to change",
+        "Opposite": " I resist change "
+    },
+    {
+        "Sentence": "I am a giver",
+        "Opposite": " I am a taker "
+    },
+    {
+        "Sentence": "I am a saver",
+        "Opposite": " I am a spender "
+    },
+    {
+        "Sentence": "I am a speaker",
+        "Opposite": " I am a listener "
+    },
+    {
+        "Sentence": "I am a doer",
+        "Opposite": " I am a thinker "
+    },
+    {
+        "Sentence": "I am a teacher",
+        "Opposite": " I am a learner"
+    },
+    {
+        "Sentence": "I am a builder",
+        "Opposite": "I am a destroyer"
+    },
+    {
+        "Sentence": "I am a questioner",
+        "Opposite": "I am an acceptor"
+    },
+    {
+        "Sentence": "I am a traveler",
+        "Opposite": "I am a homebody"
+    },
+    {
+        "Sentence": "I am a collector",
+        "Opposite": "I am a minimalist"
+    },
+    {
+        "Sentence": "I am a protector",
+        "Opposite": "I am a risker"
+    },
+    {
+        "Sentence": "I am a motivator",
+        "Opposite": "I am a demotivator"
+    },
+    {
+        "Sentence": "I am an artist",
+        "Opposite": "I am an analyst"
+    },
+    {
+        "Sentence": "I am an initiator",
+        "Opposite": "I am a follower"
+    },
+    {
+        "Sentence": "I am a peacemaker",
+        "Opposite": "I am an agitator"
+    },
+    {
+        "Sentence": "I am an achiever",
+        "Opposite": "I am a quitter"
+    },
+    {
+        "Sentence": "I am a helper",
+        "Opposite": "I am a hindrance"
+    },
+    {
+        "Sentence": "I am a solver",
+        "Opposite": "I am a complicator"
+    },
+    {
+        "Sentence": "I am a guide",
+        "Opposite": "I am a seeker"
+    },
+    {
+        "Sentence": "I am a fixer",
+        "Opposite": "I am a damager"
+    },
+    {
+        "Sentence": "I am a joiner",
+        "Opposite": "I am a divider"
+    },
+    {
+        "Sentence": "I am a changer",
+        "Opposite": "I am a stabilizer"
+    },
+    {
+        "Sentence": "I am a grower",
+        "Opposite": "I am a harvester"
+    },
+    {
+        "Sentence": "I am a sharer",
+        "Opposite": "I am a hoarder"
+    },
+    {
+        "Sentence": "I am a starter",
+        "Opposite": "I am a stopper"
+    },
+    {
+        "Sentence": "I am a learner",
+        "Opposite": "I am a neglecter"
+    },
+    {
+        "Sentence": "I am a seeker",
+        "Opposite": "I am a settler"
+    },
+    {
+        "Sentence": "I am a developer",
+        "Opposite": "I am a maintainer"
+    },
+    {
+        "Sentence": "I am a listener",
+        "Opposite": "I am an ignorer"
+    },
+    {
+        "Sentence": "I am a preparer",
+        "Opposite": "I am an improviser"
+    },
+    {
+        "Sentence": "I am a supporter",
+        "Opposite": "I am an opponent"
+    },
+    {
+        "Sentence": "I am a counselor",
+        "Opposite": "I am a challenger"
+    },
+    {
+        "Sentence": "I am an inspirer",
+        "Opposite": "I am a discourager"
+    },
+    {
+        "Sentence": "I am a healer",
+        "Opposite": "I am an afflictor"
+    },
+    {
+        "Sentence": "I am a uniter",
+        "Opposite": "I am a separator"
+    },
+    {
+        "Sentence": "I am a winner",
+        "Opposite": "I am a loser"
+    }
+]
