@@ -1,4 +1,4 @@
-data
+data/
 DL-env/
 __pycache__
 model.pth
