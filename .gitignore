@@ -4,5 +4,4 @@ model/
 borderline/
 outputs/
 .DS_Store
-data/
 __pycache__/
