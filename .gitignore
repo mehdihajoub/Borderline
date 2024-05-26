@@ -1,3 +1,8 @@
-models
+classifier_v4.pth
+huggingface_tokenizers_cache/
+model/
+borderline/
+outputs/
 .DS_Store
 data/
+__pycache__/
