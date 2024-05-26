@@ -17,8 +17,8 @@ def merge_json(json_file1, json_file2, output_file):
 
     print("JSON files merged successfully.")
 
-json_file1 = "./data/opposite_data.json"
-json_file2 = "./data/opposite_data_2.json"
-output_file = "./data/opposite_data_total.json"
+json_file1 = "./data/opposite_data_3.json"
+json_file2 = "./data/opposite_data_total.json"
+output_file = "./data/new_opposite_data.json"
 
 merge_json(json_file1, json_file2, output_file)
